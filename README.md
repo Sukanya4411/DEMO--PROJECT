@@ -1,2 +1,0 @@
-# DEMO--PROJECT
-practice purpose
