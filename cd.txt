@@ -1,0 +1,13 @@
+6. The regular expression denotes a language comprising all possible strings of even length over the alphabet (0, 1).
+a) 1 + 0(1+0)*
+b) (0+1) (1+0)*
+c) (1+0)
+d) (00+0111+10)*
+View Answer
+
+
+Answer: d
+Explanation: Option 1 + 0(1+0)* → It does not consider even length criteria for the question.
+Option (0+1) (1+0)* → It can so happen here that from the former bracket it takes 0 or 1 and takes null from the latter then it forms a string of odd length
+Option (1+0) → It gives either 1 or 0.
+Hence Option (00+0111+10)* is the answer.
